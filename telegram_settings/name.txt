@@ -1,1 +1,1 @@
-Music Downloader: SoundCloud, Bandcamp, YouTube Audio Download
+MP3 Downloader: SoundCloud, Bandcamp, YouTube Audio Download
